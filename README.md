@@ -8,7 +8,7 @@ A tool to hide text in a photo and extract it
 
 You can use exe or Install library and use script.
 ```bash
-python main.py
+python Encoder_Decoder.py
 
 ```
 
